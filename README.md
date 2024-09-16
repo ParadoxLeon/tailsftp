@@ -11,7 +11,7 @@ function tailsftp {
     python "C:\path\to\the\script\tailsftp.py"
 }
 ```
-## to save passwords use the script ```tailsftp_with_password_save.py```.
+## to save passwords use the script ```tailsftp_with_password_save.py```. LINUX ONLY
 It saves the password to the system keyring
 ### dependencies
 - pip keyring
